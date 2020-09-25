@@ -5,8 +5,8 @@
 ## I'm a Student, Developer and Meme_lov3r!
 
 - 🔭 I’m currently not workin :C
-- 🌱 I’m currently learning everything 🦍
-- 🐦 I'm looking for an ASP.NET developer position on your team😎
+- 🦍 I’m currently learning everything 
+- 🐦 I'm looking for an ASP.NET developer position on your team
 
 ### Languages, Technologies and Tools:
 
