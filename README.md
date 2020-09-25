@@ -9,7 +9,6 @@
 - 🐦 I'm looking for an ASP.NET developer position on your team
 
 <br/>
-<br/>
 
 ### Languages, Technologies and Tools:
 
