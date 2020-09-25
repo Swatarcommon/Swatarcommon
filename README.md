@@ -26,7 +26,7 @@
 
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reactjs]
 
-[<img align="left" alt="ReactJs" width="26px" src="https://cdn.syncfusion.com/boldbi/integration/v3/datasources/azure-blob.png" />][azureblobstorage]
+[<img align="left" alt="ReactJs" width="26px" src="https://img.icons8.com/color/452/azure-storage-blob--v1.png" />][azureblobstorage]
 
 <br />
 
