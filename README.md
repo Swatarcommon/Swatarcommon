@@ -4,7 +4,7 @@
 [![Vkontakte](https://img.shields.io/endpoint?logo=vk&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvk-friends-api.herokuapp.com%2Ffriends)](https://vk.com/roie_mo_rider)
 ## I'm a Student, Developer and Meme_lov3r!
 
-- 🔭 I’m currently not workin :C!
+- 🔭 I’m currently not workin :C
 - 🌱 I’m currently learning everything 🦍
 - 🐦 I'm looking for an ASP.NET developer position on your team😎
 
