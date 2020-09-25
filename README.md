@@ -32,9 +32,9 @@
 
 [<img align="left" alt="AzureBlobStorage" width="62px" height="52" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
 
-[<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
+[<img align="left" alt="WebApi" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 
-[<img align="left" alt="ReactJs" width="62px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
+[<img align="center" alt="Hateoas" width="62px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
 
 <br />
 
