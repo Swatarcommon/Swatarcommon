@@ -24,7 +24,7 @@
 
 [<img align="left" alt="EntityFramework" width="52px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
 
-[<img align="left" alt="ReactJs" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reactjs]
+[<img align="left" alt="ReactJs" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][reactjs]
 
 [<img align="left" alt="ReactJs" width="52px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
 
