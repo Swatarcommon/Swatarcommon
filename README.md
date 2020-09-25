@@ -24,8 +24,8 @@
 [HTML]
 [<img align="left" alt="Entity Framework" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--lbucbFYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4mjifo6lp08xb3yjjle.JPG" />][https://docs.microsoft.com/en-us/ef/]
 [<img align="left" alt="React.Js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" />]
-[reactjs]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reactjs]
 <br />
 
 ---
