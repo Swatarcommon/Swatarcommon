@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikita - aka [swatarcommon][vk] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/swatarcommon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswatarcommonr&screen_name=swatarcommon)
 
-## I'm a Student, Developer and meme_lov3r!
+## I'm a Student, Developer and Meme_lov3r!
 
 - 🔭 I’m currently not workin :C!
 - 🌱 I’m currently learning everything 🦍
