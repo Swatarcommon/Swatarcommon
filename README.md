@@ -37,7 +37,7 @@
 [<img align="left" alt="Hateoas" width="122px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
 
 <br />
-
+<br />
 ---
 
 <br />
