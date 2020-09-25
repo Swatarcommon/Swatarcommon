@@ -8,6 +8,9 @@
 - 🔭 I’m currently learning everything 
 - 🐦 I'm looking for an ASP.NET developer position on your team
 
+<br/>
+<br/>
+
 ### Languages, Technologies and Tools:
 
 [<img align="left" alt="VisualStudio" width="42px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />][visualstudio]
