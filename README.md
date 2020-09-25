@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages, Technologies and Tools:
 
 [<img align="left" alt="VisualStudio" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/visualstudio.svg" />][visualstudio]
 
@@ -28,6 +28,7 @@
 
 [<img align="left" alt="ReactJs" width="52px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
 
+[<img align="left" alt="ReactJs" width="52px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 <br />
 
 ---
@@ -44,6 +45,7 @@
 [reactjs]: https://reactjs.org
 [entityframework]: https://docs.microsoft.com/en-us/ef/
 [azureblobstorage]: https://azure.microsoft.com/en-us/services/storage/blobs/
+[webapi]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
 [twitter]: https://twitter.com/swatarcommon
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vk]: https://vk.com/roie_mo_rider
