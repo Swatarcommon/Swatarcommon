@@ -28,11 +28,11 @@
 
 [<img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
+[<img align="left" alt="JQuery" width="62px" src="https://www.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />][jquery]
+
 [<img align="left" alt="AzureBlobStorage" width="62px" height="52" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
 
 [<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
-
-[<img align="left" alt="JQuery" width="62px" src="https://www.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />][jquery]
 
 <br />
 
