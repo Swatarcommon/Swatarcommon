@@ -1,5 +1,6 @@
 ### Hi there, I'm Nikita - aka [Swatar][vk] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/swatarcommon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswatarcommonr&screen_name=swatarcommon)
+<br/>
 [![Vkontakte](https://img.shields.io/endpoint?logo=vk&logoColor=%22orange%22&style=social&url=https%3A%2F%2Fvk-friends-api.herokuapp.com%2Ffriends)](https://vk.com/roie_mo_rider)
 ## I'm a Student, Developer and Meme_lov3r!
 
