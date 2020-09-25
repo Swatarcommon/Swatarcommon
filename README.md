@@ -26,7 +26,7 @@
 
 [<img align="left" alt="ReactJs" width="92px" src="https://images.ctfassets.net/bncv3c2gt878/1NK2xfeeRi0608wsss6o46/44b7a7f8ebc76a04fa6dc90198791553/React_logo_wordmark.png?w=1200&h=600&fit=thumb" />][reactjs]
 
-[<img align="left" alt="AzureBlobStorage" width="62px" height="32" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
+[<img align="left" alt="AzureBlobStorage" width="62px" height="52" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
 
 [<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 <br />
