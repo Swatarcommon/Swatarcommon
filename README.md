@@ -20,7 +20,7 @@
 
 [<img align="left" alt="VisualStudio" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/visualstudio.svg" />][visualstudio]
 
-[<img align="left" alt="HTML5" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />][HTML]
+[<img align="left" alt="HTML5" width="52px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />][HTML]
 
 [<img align="left" alt="EntityFramework" width="52px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
 
