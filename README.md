@@ -39,7 +39,7 @@
 
 [visualstudio]: https://visualstudio.microsoft.com/
 [HTML]: https://developer.mozilla.org/ru/docs/Learn/HTML
-[reactjs]: reactjs.org
+[reactjs]: https://reactjs.org
 [twitter]: https://twitter.com/swatarcommon
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vk]: https://vk.com/roie_mo_rider
