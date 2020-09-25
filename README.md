@@ -22,13 +22,13 @@
 
 [<img align="left" alt="HTML5" width="42px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />][HTML]
 
-[<img align="left" alt="EntityFramework" width="52px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
+[<img align="left" alt="EntityFramework" width="42px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
 
 [<img align="left" alt="ReactJs" width="92px" src="https://images.ctfassets.net/bncv3c2gt878/1NK2xfeeRi0608wsss6o46/44b7a7f8ebc76a04fa6dc90198791553/React_logo_wordmark.png?w=1200&h=600&fit=thumb" />][reactjs]
 
 [<img align="left" alt="AzureBlobStorage" width="62px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
 
-[<img align="left" alt="ReactJs" width="52px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
+[<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 <br />
 
 ---
