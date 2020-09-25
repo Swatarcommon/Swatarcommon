@@ -29,6 +29,9 @@
 [<img align="left" alt="AzureBlobStorage" width="62px" height="52" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
 
 [<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
+
+[<img align="left" alt="JQuery" width="62px" src="https://www.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />][jquery]
+
 <br />
 
 ---
@@ -45,6 +48,7 @@
 [reactjs]: https://reactjs.org
 [entityframework]: https://docs.microsoft.com/en-us/ef/
 [azureblobstorage]: https://azure.microsoft.com/en-us/services/storage/blobs/
+[jquery]: https://jquery.com/
 [webapi]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
 [twitter]: https://twitter.com/swatarcommon
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
