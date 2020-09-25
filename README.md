@@ -26,7 +26,7 @@
 
 [<img align="left" alt="ReactJs" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reactjs]
 
-[<img align="left" alt="ReactJs" width="52px" src="https://datasmithnetworks.com/wp-content/uploads/2016/01/microsoft-azure-logo.jpg" />][azureblobstorage]
+[<img align="left" alt="ReactJs" width="52px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
 
 <br />
 
