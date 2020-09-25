@@ -26,7 +26,7 @@
 
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][reactjs]
 
-[<img align="left" alt="ReactJs" width="26px" src="https://i.pinimg.com/originals/7a/ba/cc/7abaccd7f9ec9e59a170a13380e0448d.png" />][azureblobstorage]
+[<img align="left" alt="ReactJs" width="26px" src="https://p.kindpng.com/picc/s/361-3612378_microsoft-azure-official-microsoft-azure-logo-hd-png.png" />][azureblobstorage]
 
 <br />
 
