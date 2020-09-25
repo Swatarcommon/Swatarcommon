@@ -34,7 +34,7 @@
 
 [<img align="left" alt="WebApi" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 
-[<img align="center" alt="Hateoas" width="82px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
+[<img align="left" alt="Hateoas" width="122px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
 
 <br />
 
