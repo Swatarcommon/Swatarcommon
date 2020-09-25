@@ -34,6 +34,8 @@
 
 [<img align="left" alt="ReactJs" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 
+[<img align="left" alt="ReactJs" width="62px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
+
 <br />
 
 ---
@@ -53,6 +55,7 @@
 [jquery]: https://jquery.com/
 [js]: https://developer.mozilla.org/docs/Web/JavaScript
 [webapi]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
+[hateoas]: https://restfulapi.net/hateoas/
 [twitter]: https://twitter.com/swatarcommon
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vk]: https://vk.com/roie_mo_rider
