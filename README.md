@@ -47,15 +47,6 @@
 
 ---
 
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="swatarcommon's Github Stats" src="https://github-readme-stats.swatarcommon.vercel.app/api?username=swatarcommon&show_icons=true&hide_border=true" />
-
-</details>
-
 [visualstudio]: https://visualstudio.microsoft.com/
 [aspnet]: https://dotnet.microsoft.com/apps/aspnet
 [HTML]: https://developer.mozilla.org/ru/docs/Learn/HTML
