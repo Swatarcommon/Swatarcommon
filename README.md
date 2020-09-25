@@ -24,7 +24,7 @@
 
 [<img align="left" alt="VisualStudio" width="42px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />][visualstudio]
 
-[<img align="left" alt="ASP.NET" width="42px" src="https://chrissainty.com/content/images/2017/10/aspnet-core.png" />][aspnet]
+[<img align="left" alt="ASP.NET" width="82px" src="https://chrissainty.com/content/images/2017/10/aspnet-core.png" />][aspnet]
 
 [<img align="left" alt="EntityFramework" width="42px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
 
