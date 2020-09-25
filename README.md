@@ -18,7 +18,7 @@
 
 ### Languages, Technologies and Tools:
 
-[<img align="left" alt="VisualStudio" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/visualstudio.svg" />][visualstudio]
+[<img align="left" alt="VisualStudio" width="42px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />][visualstudio]
 
 [<img align="left" alt="HTML5" width="42px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />][HTML]
 
