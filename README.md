@@ -24,9 +24,9 @@
 
 [<img align="left" alt="EntityFramework" width="52px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />][entityframework]
 
-[<img align="left" alt="ReactJs" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][reactjs]
+[<img align="left" alt="ReactJs" width="52px" src="https://images.ctfassets.net/bncv3c2gt878/1NK2xfeeRi0608wsss6o46/44b7a7f8ebc76a04fa6dc90198791553/React_logo_wordmark.png?w=1200&h=600&fit=thumb" />][reactjs]
 
-[<img align="left" alt="ReactJs" width="52px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
+[<img align="left" alt="AzureBlobStorage" width="52px" src="https://seekvectorlogo.com/wp-content/uploads/2018/01/microsoft-azure-vector-logo-small.png" />][azureblobstorage]
 
 [<img align="left" alt="ReactJs" width="52px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 <br />
