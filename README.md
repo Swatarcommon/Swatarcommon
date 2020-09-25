@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikita - aka [Swatar][vk] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/swatarcommon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswatarcommonr&screen_name=swatarcommon)
-
+[VK.Widgets.Subscribe("vk_subscribe", {mode: 2}, 351660435)]
 ## I'm a Student, Developer and Meme_lov3r!
 
 - 🔭 I’m currently not workin :C!
