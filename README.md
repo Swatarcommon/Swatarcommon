@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently not workin :C!
 - 🌱 I’m currently learning everything 🦍
-- 🐦 I'm looking for an ASP.Net developer position on your team😎
+- 🐦 I'm looking for an ASP.NET developer position on your team😎
 
 ### Connect with me:
 
