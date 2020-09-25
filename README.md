@@ -8,18 +8,6 @@
 - 🌱 I’m currently learning everything 🦍
 - 🐦 I'm looking for an ASP.NET developer position on your team😎
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
----
-
 ### Languages, Technologies and Tools:
 
 [<img align="left" alt="VisualStudio" width="42px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />][visualstudio]
@@ -41,6 +29,18 @@
 [<img align="left" alt="WebApi" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
 
 [<img align="left" alt="Hateoas" width="122px" src="https://blog.octo.com/wp-content/uploads/2014/10/hateoas1.png" />][hateoas]
+
+
+<br />
+<br />
+
+---
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
