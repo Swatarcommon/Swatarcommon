@@ -35,8 +35,6 @@
 
 [<img align="left" alt="HTML5" width="42px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />][HTML]
 
-[<img align="left" alt="JQuery" width="62px" src="https://www.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />][jquery]
-
 [<img align="left" alt="AzureBlobStorage" width="62px" height="52" src="https://thumb.tildacdn.com/tild3363-3463-4739-b030-393131653661/-/resize/744x/-/format/webp/microsoft-azure.jpg" />][azureblobstorage]
 
 [<img align="left" alt="WebApi" width="62px" src="https://www.videosharp.info/data/img/shop/webapi.png" />][webapi]
@@ -54,7 +52,6 @@
 [reactjs]: https://reactjs.org
 [entityframework]: https://docs.microsoft.com/en-us/ef/
 [azureblobstorage]: https://azure.microsoft.com/en-us/services/storage/blobs/
-[jquery]: https://jquery.com/
 [js]: https://developer.mozilla.org/docs/Web/JavaScript
 [webapi]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
 [hateoas]: https://restfulapi.net/hateoas/
