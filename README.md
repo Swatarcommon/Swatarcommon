@@ -4,9 +4,8 @@
 [![Vkontakte](https://img.shields.io/endpoint?logo=vk&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvk-friends-api.herokuapp.com%2Ffriends)](https://vk.com/roie_mo_rider)
 ## I'm Developer and Meme_lov3r from Belarus. Graduated from BSTU in 2021!
 
-- 🦍I’m currently not workin :C
+- 🦍I’m currently working at WannaPlay :)
 - 🔭 I’m currently learning web dev 
-- 🐦 I'm looking for an ASP.NET developer position on your team
 
 ##
 ### Connect with me:
