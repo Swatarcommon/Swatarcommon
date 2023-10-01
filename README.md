@@ -9,3 +9,5 @@
 
 <br />
 <br />
+
+[linkedin]: https://www.linkedin.com/in/nikita-le-774034186/
