@@ -1,5 +1,5 @@
 ### Hi there, I'm Nikita👋
-## I'm Developer and Meme_lov3r from Belarus. Graduated from BSTU in 2021!
+## I'm dev from Belarus. Graduated from BSTU in 2021!
 
 🦍I’m currently working at PerfectPlay.
 
